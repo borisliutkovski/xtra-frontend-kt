@@ -8,11 +8,15 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 https://sass-lang.com/documentation/file.SASS_REFERENCE.html
 
+https://drive.google.com/open?id=0ByJB-7xptY2UWENKb1Y2QjBDUjQ
+
 ### SVG
 
 https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Positions
 
 https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Introduction
+
+https://drive.google.com/open?id=0ByJB-7xptY2UNU5LdjBwZlJjQkk
 
 ### Bootstrap grid
 

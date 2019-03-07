@@ -8,6 +8,8 @@ https://medium.com/fbdevclagos/why-web-accessibility-is-important-and-how-you-ca
 
 https://developers.google.com/web/fundamentals/accessibility/
 
+https://drive.google.com/open?id=0ByJB-7xptY2UYjJBb2JvOXlVQVU
+
 ### Task
 
 Create a sign up form that follows accesibility guidelines, google account sign up form may be used as an example
